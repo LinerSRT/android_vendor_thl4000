@@ -76,10 +76,10 @@ PRODUCT_COPY_FILES += \
     vendor/thl/thl4000/proprietary/lib/libaudiocompensationfilter.so:system/lib/libaudiocompensationfilter.so \
     vendor/thl/thl4000/proprietary/lib/libaudiocomponentengine.so:system/lib/libaudiocomponentengine.so \
     vendor/thl/thl4000/proprietary/lib/libaudiocustparam.so:system/lib/libaudiocustparam.so \
-    vendor/thl/thl4000/proprietary/lib/libaudiodcrflt.so:system/lib/libaudiodcrflt.so \
-    vendor/thl/thl4000/proprietary/lib/libaudiomtkdcremoval.so:system/lib/libaudiomtkdcremoval.so \
     vendor/thl/thl4000/proprietary/lib/libaudiopolicymanagerdefault.so:system/lib/libaudiopolicymanagerdefault.so \
     vendor/thl/thl4000/proprietary/lib/libaudiopolicymanagersprout.so:system/lib/libaudiopolicymanagersprout.so \
+    vendor/thl/thl4000/proprietary/lib/libaudiodcrflt.so:system/lib/libaudiodcrflt.so \
+    vendor/thl/thl4000/proprietary/lib/libaudiomtkdcremoval.so:system/lib/libaudiomtkdcremoval.so \
     vendor/thl/thl4000/proprietary/lib/libaudiosetting.so:system/lib/libaudiosetting.so \
     vendor/thl/thl4000/proprietary/lib/libbessound_hd_mtk.so:system/lib/libbessound_hd_mtk.so \
     vendor/thl/thl4000/proprietary/lib/libblisrc.so:system/lib/libblisrc.so \
